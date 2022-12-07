@@ -105,6 +105,7 @@ header p {
 }
 
 footer {
+  font-size: x-large;
   color: #c2c0c0;
   padding: 3vh;
 }
@@ -115,6 +116,13 @@ footer ul {
 }
 footer ul li {
   margin: 10px;
+}
+
+.para-footer {
+  font-size: xx-small;
+  display: flex;
+  justify-content: center;
+  color: #c2c0c0;
 }
 
 /*# sourceMappingURL=style.css.map */
